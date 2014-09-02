@@ -1,0 +1,417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"roles",
+				"user_roles"
+			],
+			[
+				"use",
+				"User"
+			],
+			[
+				"ava",
+				"avatar_url"
+			],
+			[
+				"ro",
+				"role_string"
+			],
+			[
+				"fin",
+				"find_by_name"
+			],
+			[
+				"user",
+				"user_roles"
+			],
+			[
+				"role",
+				"roles_list_old"
+			],
+			[
+				"role_",
+				"role_string"
+			],
+			[
+				"comme",
+				"comment"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"pos",
+				"post_params"
+			],
+			[
+				"co",
+				"content_tag"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"be",
+				"belongs_to"
+			],
+			[
+				"actio",
+				"action_name"
+			],
+			[
+				"se",
+				"set_access"
+			],
+			[
+				"new",
+				"New_comment"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"c",
+				"comments"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"Comm",
+				"Comments"
+			],
+			[
+				"con",
+				"comments"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"error",
+				"error_explanation"
+			],
+			[
+				"all",
+				"allow_blank"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-collapse"
+			],
+			[
+				"start",
+				"start_date"
+			],
+			[
+				"sta",
+				"start_date"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/irudenkov/WorkSpace/age18"
+	],
+	"file_history":
+	[
+		"/Users/irudenkov/WorkSpace/courseboard1/app/models/course.rb",
+		"/Users/irudenkov/WorkSpace/Rnome/app/controllers/customers_controller.rb",
+		"/Users/irudenkov/WorkSpace/Rnome/config/routes.rb",
+		"/Users/irudenkov/WorkSpace/Rnome/config/environments/development.rb",
+		"/Users/irudenkov/WorkSpace/Rnome/app/models/customer.rb",
+		"/Users/irudenkov/WorkSpace/Rnome/db/migrate/20140901110642_create_customers.rb",
+		"/Users/irudenkov/.Trash/Renome/renome/Gemfile",
+		"/Users/irudenkov/WorkSpace/courseboard1/Gemfile",
+		"/Users/irudenkov/Documents/git",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/irudenkov/WorkSpace/experiment/config/routes.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/controllers/comments_controller.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/views/user/edit.html.erb",
+		"/Users/irudenkov/WorkSpace/experiment/app/models/role.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/controllers/posts_controller.rb",
+		"/Users/irudenkov/WorkSpace/experiment/test/fixtures/comments.yml",
+		"/Users/irudenkov/WorkSpace/experiment/test/fixtures/posts.yml",
+		"/Users/irudenkov/WorkSpace/experiment/test/fixtures/roles.yml",
+		"/Users/irudenkov/WorkSpace/experiment/test/fixtures/user_roles.yml",
+		"/Users/irudenkov/WorkSpace/experiment/test/test_helper.rb",
+		"/Users/irudenkov/WorkSpace/experiment/test/controllers/users_controller_test.rb",
+		"/Users/irudenkov/WorkSpace/experiment/test/controllers/comments_controller_test.rb",
+		"/Users/irudenkov/WorkSpace/experiment/test/controllers/posts_controller_test.rb",
+		"/Users/irudenkov/WorkSpace/experiment/db/migrate/20140825122350_add_avatar_to_users.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/views/users/edit.html.erb",
+		"/Users/irudenkov/WorkSpace/experiment/Gemfile",
+		"/Users/irudenkov/WorkSpace/experiment/app/uploaders/avatar_uploader.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/controllers/users_controller.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/models/comment.rb",
+		"/Users/irudenkov/WorkSpace/experiment/.gitignore",
+		"/Users/irudenkov/WorkSpace/experiment/app/models/user.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/models/post.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/views/posts/show.html.erb",
+		"/Users/irudenkov/WorkSpace/experiment/app/views/user/index.html.erb",
+		"/Users/irudenkov/WorkSpace/experiment/db/migrate/20140820124337_add_autor_in_post.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/views/posts/index.html.erb",
+		"/Users/irudenkov/WorkSpace/experiment/test/fixtures/users.yml",
+		"/Users/irudenkov/WorkSpace/experiment/db/seeds.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/models/user_role.rb",
+		"/Users/irudenkov/WorkSpace/experiment/db/migrate/20140823041941_remove_timestamps_in_user_role.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/views/posts/new.html.erb",
+		"/Users/irudenkov/WorkSpace/experiment/app/helpers/application_helper.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/views/posts/edit.html.erb",
+		"/Users/irudenkov/WorkSpace/experiment/app/views/layouts/application.html.erb",
+		"/Users/irudenkov/WorkSpace/experiment/db/migrate/20140820074318_create_user_roles.rb",
+		"/Users/irudenkov/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/irudenkov/WorkSpace/experiment/config/locales/ru/posts.yml",
+		"/Users/irudenkov/WorkSpace/experiment/config/environments/development.rb",
+		"/Users/irudenkov/WorkSpace/experiment/db/migrate/20140817050936_create_comments.rb",
+		"/Users/irudenkov/WorkSpace/experiment/db/migrate/20140817145315_devise_create_users.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/controllers/application_controller.rb",
+		"/Users/irudenkov/WorkSpace/experiment/confiv/environments/development.rb",
+		"/Users/irudenkov/WorkSpace/experiment/confiv/enviroments/development.rb",
+		"/Users/irudenkov/WorkSpace/experiment/confiv/enviroment/s",
+		"/Users/irudenkov/WorkSpace/experiment/app/views/posts/_form.html.erb",
+		"/Users/irudenkov/WorkSpace/experiment/app/controllers/comment_controller.rb",
+		"/Users/irudenkov/WorkSpace/experiment/config/application.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/views/comment/index.html.erb",
+		"/Users/irudenkov/WorkSpace/experiment/config/locales/ru/layouts.yml",
+		"/Users/irudenkov/WorkSpace/courseboard/config/application.rb",
+		"/Users/irudenkov/WorkSpace/experiment/config/locales/en.yml",
+		"/Users/irudenkov/WorkSpace/depot/test/models/product_test.rb",
+		"/Users/irudenkov/WorkSpace/depot/db/migrate/20140816025730_create_products.rb",
+		"/Users/irudenkov/WorkSpace/depot/app/views/products/_form.html.erb",
+		"/Users/irudenkov/WorkSpace/depot/db/seeds.rb",
+		"/Users/irudenkov/WorkSpace/depot/app/assets/stylesheets/products.css.scss",
+		"/Users/irudenkov/WorkSpace/depot/app/views/layouts/application.html.erb",
+		"/Users/irudenkov/WorkSpace/depot/app/views/products/index.html.erb",
+		"/Users/irudenkov/WorkSpace/depot/app/models/product.rb",
+		"/Users/irudenkov/WorkSpace/depot/test/controllers/products_controller_test.rb",
+		"/Users/irudenkov/WorkSpace/depot/config/routes.rb",
+		"/Users/irudenkov/WorkSpace/depot/app/controllers/store_controller.rb",
+		"/Users/irudenkov/WorkSpace/depot/app/views/store/index.html.erb",
+		"/Users/irudenkov/WorkSpace/depot/app/assets/stylesheets/store.css.scss",
+		"/Users/irudenkov/WorkSpace/depot/test/fixtures/products.yml",
+		"/Users/irudenkov/WorkSpace/depot/app/controlers/store_controller.rb",
+		"/Users/irudenkov/WorkSpace/depot/test/models/products_test.rb",
+		"/Users/irudenkov/WorkSpace/depot/app/views/layout/application.html.erb",
+		"/Users/irudenkov/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-package",
+		"/Users/irudenkov/WorkSpace/depot/app/stylesheets/products.css.scss",
+		"/Users/irudenkov/WorkSpace/demo/app/controllers/say_controller.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/views/comment/_form.html.erb",
+		"/Users/irudenkov/WorkSpace/experiment/db/migrate/20140813114556_create_comments.rb",
+		"/Users/irudenkov/WorkSpace/courseboard/app/models/course.rb",
+		"/Users/irudenkov/WorkSpace/experiment/db/migrate/20140813123436_change_reference.rb",
+		"/Users/irudenkov/WorkSpace/courseboard/Gemfile",
+		"/Users/irudenkov/WorkSpace/courseboard/app/controllers/courses_controller.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/views/comment/_comment.html.erb",
+		"/Users/irudenkov/WorkSpace/courseboard/db/migrate/20140811123123_create_roles.rb",
+		"/Users/irudenkov/WorkSpace/experiment/db/migrate/20140813073345_create_posts.rb",
+		"/Users/irudenkov/WorkSpace/courseboard/db/migrate/20140806130735_create_lessons.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/helpers/posts_helper.rb",
+		"/Users/irudenkov/WorkSpace/courseboard/app/helpers/application_helper.rb",
+		"/Users/irudenkov/WorkSpace/demo/app/views/say/Hello.html.erb",
+		"/Users/irudenkov/WorkSpace/demo/app/views/say/goodbye.html.erb",
+		"/Users/irudenkov/WorkSpace/courseboard/db/seeds.rb",
+		"/Users/irudenkov/WorkSpace/courseboard/app/views/courses/_form.html.erb",
+		"/Users/irudenkov/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/irudenkov/WorkSpace/courseboard/app/views/courses/show.html.erb",
+		"/Users/irudenkov/WorkSpace/courseboard/db/schema.rb",
+		"/Users/irudenkov/WorkSpace/courseboard/app/helpers/courses_helper.rb",
+		"/Users/irudenkov/WorkSpace/courseboard/bin/rails",
+		"/Users/irudenkov/WorkSpace/courseboard/db/development.sqlite3",
+		"/Users/irudenkov/WorkSpace/courseboard/Gemfile.lock",
+		"/Users/irudenkov/WorkSpace/experiment/Gemfile.lock",
+		"/Users/irudenkov/WorkSpace/experiment/app/controllers/courses_controller.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/views/courses/index.html.erb",
+		"/Users/irudenkov/WorkSpace/experiment/app/views/courses/new.html.erb",
+		"/Users/irudenkov/WorkSpace/experiment/app/views/courses/edit.html.erb",
+		"/Users/irudenkov/WorkSpace/experiment/db/migrate/20140804114933_create_courses.rb",
+		"/Users/irudenkov/WorkSpace/courseboard/config/environments/development.rb",
+		"/Users/irudenkov/WorkSpace/experiment/app/views/courses/_form.html.erb",
+		"/Users/irudenkov/WorkSpace/experiment/app/models/course.rb",
+		"/Users/irudenkov/WorkSpace/experiment/config/environment.rb",
+		"/Users/irudenkov/WorkSpace/experiment/config/boot.rb",
+		"/Users/irudenkov/WorkSpace/.rvmrc"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"thumb",
+			"UsersController",
+			"false",
+			"post",
+			"open_",
+			"open"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
