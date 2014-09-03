@@ -31,6 +31,12 @@
     <%= f.label :alert_age %><br>
     <%= f.number_field :alert_age %>
   </div>
+  <div class="field">
+    <%= content_tag :label, 'photos' %><br>
+    <% #image_tag(@target.photos) if @target.photos? %>
+    <%= f.file_field :photo %>
+    <% #f.hidden_field :photo_cache %>
+  </div>
   <div class="actions">
     <%= f.submit %>
   </div>

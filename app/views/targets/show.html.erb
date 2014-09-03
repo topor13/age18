@@ -25,5 +25,15 @@
   <%= @target.alert_age %>
 </p>
 
+<p>
+  <%= content_tag :strong, 'photos' %>
+  <%= content_tag :br %>
+  <% @target.photos.each do |p| %>
+    <%= image_tag(p.file) %>
+    <%= content_tag :br %>
+    <%= p.note %>
+  <% end %>
+</p>
+
 <%= link_to 'Edit', edit_target_path(@target) %> |
 <%= link_to 'Back', targets_path %>
