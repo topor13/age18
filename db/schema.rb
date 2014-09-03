@@ -11,14 +11,14 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140902132533) do
+ActiveRecord::Schema.define(version: 20140902092609) do
 
   create_table "photos", force: true do |t|
+    t.string   "file"
     t.string   "note"
     t.integer  "target_id"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.string   "file"
   end
 
   add_index "photos", ["target_id"], name: "index_photos_on_target_id"
@@ -28,8 +28,11 @@ ActiveRecord::Schema.define(version: 20140902132533) do
     t.string   "gender"
     t.string   "contacts"
     t.date     "dob"
+    t.integer  "alert_age"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  add_index "targets", ["name"], name: "index_targets_on_name"
 
 end

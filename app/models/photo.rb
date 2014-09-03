@@ -4,5 +4,4 @@ class Photo < ActiveRecord::Base
 
   ## Etc.
   mount_uploader :file, FileUploader
-
 end
