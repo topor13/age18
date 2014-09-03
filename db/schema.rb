@@ -28,7 +28,7 @@ ActiveRecord::Schema.define(version: 20140902092609) do
     t.string   "gender"
     t.string   "contacts"
     t.date     "dob"
-    t.integer  "alert_age"
+    t.integer  "alert_age",  default: 18
     t.datetime "created_at"
     t.datetime "updated_at"
   end

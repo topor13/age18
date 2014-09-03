@@ -1,0 +1,56 @@
+body.targets{
+  &.new, &.create{
+    div.form_box{
+      position: relative;
+      margin: 50px auto;
+      width: 400px;
+      background: #fff;
+      border: 1px solid #6283A3;
+      box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+      border-radius: 6px;
+
+      form{
+        div.field{
+          &.gender{
+            div.male, div.female{
+              height: 48px;
+              float: left;
+              padding-right: 16px;
+
+              label{
+                padding-left: 24px;
+
+                &:before{
+                  content: '';
+                  position: absolute;
+                  background: #B8B8B8 url(<%= asset_path'sprite.png' %>) no-repeat;
+                  background-size: 240px 480px;
+                  display: block;
+                  width: 22px;
+                  height: 46px;
+                  margin-left: -24px;
+                }
+              }
+
+              input:checked + label{
+                &:before{
+                  background-color: #E3004C;
+                }
+              }
+
+              &.male{
+                label:before{
+                  background-position: -24px 0;
+                }
+              }
+            }
+          }
+          
+          &.dob{
+            clear: both;
+          }
+        }
+      }
+    }
+  }
+}

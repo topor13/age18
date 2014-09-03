@@ -5,7 +5,7 @@ class CreateTargets < ActiveRecord::Migration
       t.string :gender
       t.string :contacts
       t.date :dob
-      t.integer :alert_age
+      t.integer :alert_age, default: 18
 
       t.index :name
       t.timestamps

@@ -1,0 +1,65 @@
+&.button{
+  cursor: pointer;
+  height: 48px;
+  display: inline-block;
+  border-width: 0;
+  position: relative;
+  border-radius: 4px;
+  background: #44AB00;
+  line-height: 48px;
+  font-size: 14px;
+  font-weight: 700;
+  transition: 0.2s ease all;
+
+  span, a{
+    display: block;
+    padding: 0 16px;
+    height: 48px;
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    border-bottom-width: 0;
+  }
+
+  &:hover{
+    background: #49B800;
+  }
+
+  &:active{
+    background: #398F00;
+  }  
+
+  &.loading{
+    cursor: default;
+    background: #ABABAB;
+
+    &:after{
+      content: '';
+      display: block;
+      position: absolute;
+      width: 48px;
+      height: 100%;
+      background: rgba(0,0,0,0.5) url(<%= asset_path 'loader.gif' %>) no-repeat center center;
+      background-size: 32px 32px;
+      border-radius: 2px;
+      right: -64px;
+      top: 0;
+    }
+  }
+
+  &.error{
+    cursor: default;
+    background: #D0021B;
+  }
+
+  &.smallButton{
+    height: 40px;
+    line-height: 40px;
+
+    span, a{
+      padding: 0 14px;
+      height: 40px;
+    }    
+  }
+}
