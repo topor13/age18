@@ -16,6 +16,11 @@
     <%= f.text_field :name %>
   </div>
 
+  <div class="field dob">
+    <%= f.label :dob %>
+    <%= f.text_field :dob, :databehaviour=>"datepicker", :placeholder=>"01.01.1980" %>
+  </div>
+
   <div class="field gender">
     <%= f.label :gender %>
 
@@ -30,13 +35,10 @@
     <% end %>
   </div>
 
-  <div class="field dob">
-    <%= f.label :dob %>
-    <%= f.text_field :dob %>
-  </div>
-
-  <%= f.submit %>
-  <%= content_tag :div, class: 'targetButton button customFormButtonJS hidden' do %>
-    <%= content_tag :span, t('.make') %>
+  <%= content_tag :div, class: 'targetSubmitWrap' do %>
+    <%= f.submit %>
+    <%= content_tag :div, class: 'targetButton button customFormButtonJS hidden' do %>
+      <%= content_tag :span, t('.make') %>
+    <% end %>
   <% end %>
 <% end %>

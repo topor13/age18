@@ -1,0 +1,6 @@
+ru:
+  targets:
+    new:
+      new_target: 'Новая карточка'
+    form:
+      make: 'Добавить'

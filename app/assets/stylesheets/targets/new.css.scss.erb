@@ -8,10 +8,20 @@ body.targets{
       border: 1px solid #6283A3;
       box-shadow: 0 8px 16px rgba(0,0,0,0.3);
       border-radius: 6px;
+      padding: 20px;
 
       form{
         div.field{
+          & input#target_name{
+            width:365px;
+          }
+          & input#target_dob{
+            width:100px;
+          }
           &.gender{
+            width: 220px;
+            float: right;
+
             div.male, div.female{
               height: 48px;
               float: left;
@@ -47,8 +57,11 @@ body.targets{
           }
           
           &.dob{
-            clear: both;
+            float:left;
           }
+        }
+        div.targetSubmitWrap{
+          clear:both;
         }
       }
     }

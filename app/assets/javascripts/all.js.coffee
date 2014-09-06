@@ -7,4 +7,5 @@
 
   $('form.formSubmitLoaderJS').submit ->
     $(@).find('input[type=submit], .customFormButtonJS').attr('disabled','disabled').removeClass('activeJS').addClass('loading')
- 
+
+  $('[databehaviour~=datepicker]').datepicker( { "format": "dd.mm.yyyy" } ); 

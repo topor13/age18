@@ -1,0 +1,20 @@
+ru:
+  activerecord:
+    attributes:
+      target:
+        name: 'Имя'
+        gender: 'Пол'
+        gender_female: 'Ж'
+        gender_male: 'М'
+        dob: 'Дата рождения'
+    errors:
+      models:
+        target:
+          attributes:
+            name:
+              blank: 'не должен быть пустым'
+  helpers:
+    submit:
+      create: "Создать"
+      submit: "Сохранить"
+      update: "Обновить"

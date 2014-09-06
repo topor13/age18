@@ -11,6 +11,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0',  group: :doc
 gem 'carrierwave'
 gem 'mini_magick'
+gem 'bootstrap-datepicker-rails'
 
 group :development do
   gem 'disable_assets_logger'
